@@ -1,0 +1,163 @@
+.container{
+    width: 1170px;
+}
+.sticky {
+        position: sticky;
+}
+.logo2{
+    margin: 32px;
+}
+h1{
+    color: aqua;
+}
+p{
+        font-weight: 400;
+        font-family: Roboto,Arial,sans-serif;
+        color: #747474;
+        
+        -webkit-font-smoothing: antialiased;
+    
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 300px;
+    margin: 20px;
+}
+.tableau1{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius:2%;
+    background-color:#00ccb1;
+    display:flex;
+    flex-direction: column;
+    -webkit-border-radius:2%;
+    -moz-border-radius:2%;
+    -ms-border-radius:2%;
+    -o-border-radius:2%;
+}
+.tableau2{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius:2%;
+    background-color: #3d83df;
+    display:flex;
+    flex-direction: column;
+    -webkit-border-radius:2%;
+    -moz-border-radius:2%;
+    -ms-border-radius:2%;
+    -o-border-radius:2%;
+}
+.tableau3{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius:2%;
+    background-color: #1b2734;
+    display:flex;
+    flex-direction: column;
+    -webkit-border-radius:2%;
+    -moz-border-radius:2%;
+    -ms-border-radius:2%;
+    -o-border-radius:2%;
+}
+.logotableau{
+    margin: 5px;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+.bouton{
+    margin-top: auto;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+.paratab{
+    color: white;
+    line-height: 1.8;
+    text-align: center;
+    padding: 40px;
+    font-size: large;
+}
+.titre2{
+    margin: 10px;
+    width: 33%;
+    float: left;
+    padding-right: 0.5cm;
+}
+.leslogo{
+    float: right;
+    width: 65%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 32px;   
+}
+.leslogos1{
+    padding: 18px;
+    width: 171px;
+}
+.clear{
+    clear: both;
+    margin-bottom: 20px;
+}
+.stats__item {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%);
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    margin:5px
+}
+.vert-align {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.titre3{
+    padding-right: 120px;
+}
+.stat1{
+    padding: 10px;
+    margin-top: 20px;
+}
+.stat2{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.flag{
+    width: 20px;
+    height: 20px;
+}
+.para4{
+        margin-top: 30px;
+        padding-left: 25%;
+        padding-right: 25%;
+        text-align: center;
+
+}
+.lesimages{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+.image{
+    width: 310px;
+    height: 340px;
+    padding: 10px;
+    display: table;
+}
+.titre-image{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+.bouton{
+   margin-left: auto;
+}
